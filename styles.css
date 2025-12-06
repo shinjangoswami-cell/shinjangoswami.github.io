@@ -5,3 +5,10 @@
         text-align: center; /* Center the text */
         width: 100%; /* Make the banner span the full width */
     }
+  .banner2 {
+        background-color: #ff0000; /* Example: a shade of blue */
+        color: white; /* Text color */
+        padding: 20px; /* Spacing around the text */
+        text-align: center; /* Center the text */
+        width: 100%; /* Make the banner span the full width */
+    }
