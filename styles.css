@@ -13,6 +13,7 @@
         width: 100%; /* Make the banner span the full width */
     }
 .button {
+  border-radius: 5px;
   background-color: black;
   border: none;
   color: white;
